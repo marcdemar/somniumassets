@@ -8,7 +8,7 @@
 	"description"	: "Medium (M) WORLD with 200 MB available storage for uploading your own instances. Somnium Space Worlds are fully programmable and customizable independent Virtual Reality instances which can be created by using Somnium Space SDK. Each World is represented by a blockchain token (NFT) and lets you build, script and monetize entire worlds. Drop a world's blockchain token on a Somnium Space parcel to make a portal where everyone can enter the world it contains.",	
 	"categories"	: ["world"],
 	"tags"		: ["somniumspace","world"],
-	"embed"		: "<div class='embed-responsive embed-responsive-16by9'><iframe class='embed-responsive-item' src='https://www.youtube.com/embed/Sy3-Fblmn1E?controls=0'></iframe></div>",	
+	"embed"		: "",	
 	"preview_img"	: "https://lh3.googleusercontent.com/l2Fk8HSQaT0hVZilj6kXrgoJ1XzRj38hsm3i4epROzA-ND_DCoKo3K1AnOioANlca1_eZ9qR8UXp4R1M1bS5hWVX=s0",	
 	"image_link"    : "https://opensea.io/assets/0xf980759616a795b2d692a5c0a0f1bad651984bc1/32",		
 	"images"	: [{}],
