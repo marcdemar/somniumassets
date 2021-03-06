@@ -4,8 +4,8 @@
   "assets": [
 	{
 	"token_id"	: "",
-	"name"		: "Medium (M) WORLD in Somnium Space",
-	"description"	: "Medium (M) WORLD with 200 MB available storage for uploading your own instances. Somnium Space Worlds are fully programmable and customizable independent Virtual Reality instances which can be created by using Somnium Space SDK. Each World is represented by a blockchain token (NFT) and lets you build, script and monetize entire worlds. Drop a world's blockchain token on a Somnium Space parcel to make a portal where everyone can enter the world it contains.",	
+	"name"		: "Somnium Space Worlds",
+	"description"	: "Somnium Space Worlds are fully programmable and customizable independent Virtual Reality instances which can be created by using Somnium Space SDK. Each World is represented by a blockchain token (NFT) and lets you build, script and monetize entire worlds. Drop a world's blockchain token on a Somnium Space parcel to make a portal where everyone can enter the world it contains.",	
 	"categories"	: ["world"],
 	"tags"		: ["somniumspace","world"],
 	"embed"		: "<div class='embed-responsive embed-responsive-16by9'><iframe class='embed-responsive-item' src='https://www.youtube.com/embed/YARmHLs2BjI'></iframe></div>",	
@@ -34,7 +34,7 @@
 	"description"	: "The first ever 360° NFT ecosystem, featuring 360° art pioneer Natural Warp",	
 	"categories"	: ["art"],
 	"tags"		: ["naturalwarp","art","360"],
-	"embed"		: "<div class='embed-responsive embed-responsive-16by9'><iframe class='embed-responsive-item' src='https://www.youtube.com/embed/Sy3-Fblmn1E'></iframe></div>",		
+	"embed"		: "",		
 	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/03/image-4.png",
 	"image_link"    : "https://knownorigin.io/natural-warp",	
 	"images"	: [{}],
