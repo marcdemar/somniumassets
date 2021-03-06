@@ -30,16 +30,16 @@
 	},	  
 	{
 	"token_id"	: "",
-	"name"		: "360 degree NFT Art",
-	"description"	: "The first ever 360° NFT ecosystem, featuring 360° art pioneer Natural Warp",	
+	"name"		: "Genesis VR art gallery",
+	"description"	: "Amazing art gallery owned by Artur.",	
 	"categories"	: ["art"],
-	"tags"		: ["naturalwarp","art","360"],
+	"tags"		: ["artur","art","genesis"],
 	"embed"		: "",		
-	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/03/image-4.png",
-	"image_link"    : "https://knownorigin.io/natural-warp",	
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/03/genesis_vr.jpg",
+	"image_link"    : "https://somniumspace.com/parcel/2701?elv=-0.79",	
 	"images"	: [{}],
-  	"button1" 	: {"title" : "Known Origin", "link" : "https://knownorigin.io/natural-warp"},
-	"button2" 	: {"title" : "Natural Warp 360° gallery", "link" : "https://www.naturalwarp.com/360-gallery.html"}	
+  	"button1" 	: {"title" : "Somnium WEB", "link" : "https://somniumspace.com/parcel/2701?elv=-0.79"},
+	"button2" 	: {"title" : "", "link" : ""}	
 	}
   ]
 }
