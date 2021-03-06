@@ -34,7 +34,7 @@
 	"description"	: "Amazing art gallery owned by Artur.",	
 	"categories"	: ["art"],
 	"tags"		: ["artur","art","genesis"],
-	"embed"		: "",		
+	"embed"		: "<video class='img-fluid' playsinline autoplay muted loop><source src='https://videos.files.wordpress.com/wRLCiBw7/genesis_vr_hd.mp4' type='video/mp4'></video>",		
 	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/03/genesis_vr.jpg",
 	"image_link"    : "https://somniumspace.com/parcel/2701?elv=-0.79",	
 	"images"	: [{}],
