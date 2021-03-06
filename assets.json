@@ -9,7 +9,8 @@
 	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/03/image-4.png",
 	"image_link"    : "https://knownorigin.io/natural-warp",	
 	"images"	: [{}],
-  	"button1" 	: {"title" : "Known Origin", "link" : "https://knownorigin.io/natural-warp"}  
+  	"button1" 	: {"title" : "Known Origin", "link" : "https://knownorigin.io/natural-warp"},
+	"button2" 	: {"title" : "Natural Warp 360° gallery", "link" : "https://www.naturalwarp.com/360-gallery.html"}	
 	},
 	{
 	"token_id"	: "",
@@ -20,7 +21,8 @@
 	"preview_img"	: "https://lh3.googleusercontent.com/l2Fk8HSQaT0hVZilj6kXrgoJ1XzRj38hsm3i4epROzA-ND_DCoKo3K1AnOioANlca1_eZ9qR8UXp4R1M1bS5hWVX=s0",	
 	"image_link"    : "https://opensea.io/assets/0xf980759616a795b2d692a5c0a0f1bad651984bc1/32",		
 	"images"	: [{}],
-  	"button1" 	: {"title" : "Opensea", "link" : "https://opensea.io/assets/0xf980759616a795b2d692a5c0a0f1bad651984bc1/32"}  
+  	"button1" 	: {"title" : "Opensea", "link" : "https://opensea.io/assets/0xf980759616a795b2d692a5c0a0f1bad651984bc1/32"},  
+	"button2" 	: {"title" : "", "link" : ""}		
 	}	  
   ]
 }
