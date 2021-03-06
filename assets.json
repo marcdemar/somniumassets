@@ -21,7 +21,7 @@
 	"description"	: "Experience 360° NFT art made by Natural Warp.",	
 	"categories"	: ["art"],
 	"tags"		: ["naturalwarp","art","360"],
-	"embed"		: "<video class='img-fluid' playsinline autoplay muted loop><source src='https://somniumtimes.com/parcel_752-mp4/' type='video/mp4'></video>",		
+	"embed"		: "<video class='img-fluid' playsinline autoplay muted loop><source src='https://videos.files.wordpress.com/ekDOFjeX/parcel_752_hd.mp4' type='video/mp4'></video>",		
 	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/03/parcel-752.jpg",
 	"image_link"    : "https://somniumspace.com/parcel/752?elv=2.2",	
 	"images"	: [{}],
