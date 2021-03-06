@@ -8,7 +8,17 @@
 	"tags"		: ["naturalwarp","art","360"],
 	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/03/image-4.png",	
 	"images"	: [{}],
-  "button1" : {"title" : "KnownOrigin", "link" : "https://knownorigin.io/natural-warp"}  
-	} 
+  	"button1" : {"title" : "KnownOrigin", "link" : "https://knownorigin.io/natural-warp"}  
+	},
+	{
+	"token_id"	: "",
+	"name"		: "360 degree NFT Art",
+	"description"	: "The first ever 360° NFT ecosystem, featuring 360° art pioneer Natural Warp",	
+	"categories"	: ["art"],
+	"tags"		: ["naturalwarp","art","360"],
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/03/image-4.png",	
+	"images"	: [{}],
+  	"button1" : {"title" : "KnownOrigin", "link" : "https://knownorigin.io/natural-warp"}  
+	}	  
   ]
 }
