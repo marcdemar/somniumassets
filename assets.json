@@ -52,7 +52,7 @@
 	"image_link"    : "",	
 	"images"	: [{}],
   	"button1" 	: {"title" : "Discord", "link" : "https://discord.gg/somniumspace"},
-	"button2" 	: {"title" : "Email", "link" : "mailto:info[at]somniumassets.com"}	
+	"button2" 	: {"title" : "", "link" : ""}	
 	},
 	{
 	"token_id"	: "",
