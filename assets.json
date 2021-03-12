@@ -28,7 +28,7 @@
   	"button1" 	: {"title" : "Somnium WEB", "link" : "https://somniumspace.com/parcel/752?elv=2.2"},
 	"button2" 	: {"title" : "Natural Warp 360° gallery", "link" : "https://www.naturalwarp.com/360-gallery.html"}	
 	},	  
-	{
+        {
 	"token_id"	: "",
 	"name"		: "Genesis VR art gallery",
 	"description"	: "Amazing art gallery owned by Artur.",	
