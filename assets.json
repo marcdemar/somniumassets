@@ -54,9 +54,10 @@
   	"button1" 	: {"title" : "OpenSea", "link" : "https://opensea.io/assets/0x595f279de4b5df1e47ca55b65175d8a9a935a0fa/69"},
 	"button2" 	: {"title" : "", "link" : ""}	
 	},
+	{
 	"token_id"	: "",
 	"name"		: "Promote your build, venue, gallery",
-	"description"	: "Secure your spot! Write info[at]somniumassets.com or contact marcdemar on Discord.",	
+	"description"	: "Secure your spot! Write info@somniumassets.com or contact @marcdemar on Discord.",	
 	"categories"	: ["ad"],
 	"tags"		: ["ad"],
 	"embed"		: "",		
