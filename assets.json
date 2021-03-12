@@ -43,15 +43,15 @@
 	},
 	{
 	"token_id"	: "",
-	"name"		: "Genesis VR art gallery",
-	"description"	: "Amazing art gallery owned by Artur.",	
-	"categories"	: ["art"],
-	"tags"		: ["artur","art","genesis"],
-	"embed"		: "<video class='img-fluid' playsinline autoplay muted loop><source src='https://videos.files.wordpress.com/wRLCiBw7/genesis_vr_hd.mp4' type='video/mp4'></video>",		
-	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/03/genesis_vr.jpg",
-	"image_link"    : "https://somniumspace.com/parcel/2701?elv=-0.79",	
+	"name"		: "Somnium Space Teleportation Hub #14 - Limited ILO Edition",
+	"description"	: "Limited Edition of Somnium Space Teleportation Hub. Own your own Teleport and place it on your land parcel.",	
+	"categories"	: ["item"],
+	"tags"		: ["teleportation"],
+	"embed"		: "",		
+	"preview_img"	: "https://lh3.googleusercontent.com/TqrF3UTXbrye5I8DVrBCvZBNOQo_u9LqPnGYtaAm1oLQXZo9a8nNVTrrp-axyOSU1DCAqULQtaA-uHw5Nge4hJ6Q=s992",
+	"image_link"    : "https://opensea.io/assets/0x595f279de4b5df1e47ca55b65175d8a9a935a0fa/69",	
 	"images"	: [{}],
-  	"button1" 	: {"title" : "Somnium WEB", "link" : "https://somniumspace.com/parcel/2701?elv=-0.79"},
+  	"button1" 	: {"title" : "OpenSea", "link" : "https://opensea.io/assets/0x595f279de4b5df1e47ca55b65175d8a9a935a0fa/69"},
 	"button2" 	: {"title" : "", "link" : ""}	
 	}	  
   ]
