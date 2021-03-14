@@ -44,7 +44,7 @@
 	{
 	"token_id"	: "",
 	"name"		: "Rent a parcel in Somnium Space",
-	"description"	: "XL, M and S parcels available. Yearly rentals. Write info[at]somniumassets.com or contact marcdemar on Discord.",	
+	"description"	: "XL, M and S parcels available. Yearly rentals. Email info[at]somniumassets.com or contact marcdemar on Discord.",	
 	"categories"	: ["ad"],
 	"tags"		: ["ad"],
 	"embed"		: "",		
