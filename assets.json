@@ -53,19 +53,19 @@
 	"images"	: [{}],
   	"button1" 	: {"title" : "Discord", "link" : "https://discord.gg/somniumspace"},
 	"button2" 	: {"title" : "", "link" : ""}	
-	},
+	},	  
 	{
 	"token_id"	: "",
-	"name"		: "Promote your build, venue, gallery",
-	"description"	: "Secure your spot! Email info[at]somniumassets.com or contact marcdemar on Discord.",	
-	"categories"	: ["ad"],
-	"tags"		: ["ad"],
+	"name"		: "Cryptoartist Spotlight parcel 4833",
+	"description"	: "Cryptoartist Spotlight LIVE interview with elohprojects solo exhibition storefront launch at SomniumWEB parcel 4833.",	
+	"categories"	: ["art"],
+	"tags"		: ["naturalwarp","art","elohprojects"],
 	"embed"		: "",		
-	"preview_img"	: "/images/ad_placeholder.jpg",
-	"image_link"    : "",	
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/03/Eloh_Launch_Promo_v04_small.jpg",
+	"image_link"    : "https://somniumspace.com/parcel/4833?elv=-0.5",	
 	"images"	: [{}],
-  	"button1" 	: {"title" : "Discord", "link" : "https://discord.gg/somniumspace"},
-	"button2" 	: {"title" : "", "link" : ""}	
+  	"button1" 	: {"title" : "Somnium WEB", "link" : "https://somniumspace.com/parcel/4833?elv=-0.5"},
+	"button2" 	: {"title" : "Natural Warp 360° gallery", "link" : "https://www.naturalwarp.com/360-gallery.html"}	
 	},
 	{
 	"token_id"	: "",
