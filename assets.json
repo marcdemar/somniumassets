@@ -56,7 +56,7 @@
 	},	  
         {
 	"token_id"	: "",
-	"name"		: "Art and Coffee",
+	"name"		: "Art & Coffee",
 	"description"	: "Art as a place of beauty. Coffee as a place to meet and connect. Art and Coffee as a place to live.",	
 	"categories"	: ["art"],
 	"tags"		: ["art","coffee"],
