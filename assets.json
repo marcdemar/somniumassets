@@ -57,7 +57,7 @@
         {
 	"token_id"	: "",
 	"name"		: "Art & Coffee",
-	"description"	: "Art as a place of beauty. Coffee as a place to meet and connect. Art & Coffee as a place to live.",	
+	"description"	: "Weekly exhibitions, interviews and podcasts for artists, collectors and musicians. Regular exhibitions with live music each Tuesday at 23:00 CEST, 5 EST in Cafe gallery",	
 	"categories"	: ["art"],
 	"tags"		: ["art","coffee"],
 	"embed"		: "<video class='img-fluid' playsinline autoplay muted loop><source src='https://videos.files.wordpress.com/2JNzMCCz/art_coffee2_mp4_hd.mp4' type='video/mp4'></video>",		
