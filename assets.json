@@ -57,7 +57,7 @@
         {
 	"token_id"	: "",
 	"name"		: "Art & Coffee",
-	"description"	: "Art as a place of beauty. Coffee as a place to meet and connect. Art and Coffee as a place to live.",	
+	"description"	: "Art as a place of beauty. Coffee as a place to meet and connect. Art & Coffee as a place to live.",	
 	"categories"	: ["art"],
 	"tags"		: ["art","coffee"],
 	"embed"		: "<video class='img-fluid' playsinline autoplay muted loop><source src='https://videos.files.wordpress.com/oSvk6DL5/art_coffee_mp4_hd.mp4' type='video/mp4'></video>",		
