@@ -78,7 +78,7 @@
 	"image_link"    : "https://somniumspace.com/parcel/476",	
 	"images"	: [{}],
   	"button1" 	: {"title" : "Somnium WEB", "link" : "https://somniumspace.com/parcel/476"},
-	"button2" 	: {"title" : "Website", "link" : "www.djembelivesomnium.com"}	
+	"button2" 	: {"title" : "Website", "link" : "http://www.djembelivesomnium.com"}	
 	},	  
 	{
 	"token_id"	: "",
