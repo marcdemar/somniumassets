@@ -67,6 +67,45 @@
   	"button1" 	: {"title" : "Somnium WEB", "link" : "https://somniumspace.com/parcel/4634"},
 	"button2" 	: {"title" : "Metaverse Gallery", "link" : "https://www.artcoffee.info/"}	
 	},
+        {
+	"token_id"	: "",
+	"name"		: "Djembe's Weekly Shows",
+	"description"	: "Weekly music shows by Djembe Dragonfire!",	
+	"categories"	: ["music"],
+	"tags"		: ["music"],
+	"embed"		: "",		
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/06/DjembeShows700x400.png",
+	"image_link"    : "https://somniumspace.com/parcel/476",	
+	"images"	: [{}],
+  	"button1" 	: {"title" : "Somnium WEB", "link" : "https://somniumspace.com/parcel/476"},
+	"button2" 	: {"title" : "", "link" : ""}	
+	},	  
+	{
+	"token_id"	: "",
+	"name"		: "Promote your event, venue, item",
+	"description"	: "Secure your spot! Email info[at]somniumassets.com or contact marcdemar on Discord.",	
+	"categories"	: ["ad"],
+	"tags"		: ["ad"],
+	"embed"		: "",		
+	"preview_img"	: "/images/ad_placeholder.jpg",
+	"image_link"    : "",	
+	"images"	: [{}],
+  	"button1" 	: {"title" : "Discord", "link" : "https://discord.gg/somniumspace"},
+	"button2" 	: {"title" : "", "link" : ""}	
+	},	  
+	{
+	"token_id"	: "",
+	"name"		: "Promote your event, venue, item",
+	"description"	: "Secure your spot! Email info[at]somniumassets.com or contact marcdemar on Discord.",	
+	"categories"	: ["ad"],
+	"tags"		: ["ad"],
+	"embed"		: "",		
+	"preview_img"	: "/images/ad_placeholder.jpg",
+	"image_link"    : "",	
+	"images"	: [{}],
+  	"button1" 	: {"title" : "Discord", "link" : "https://discord.gg/somniumspace"},
+	"button2" 	: {"title" : "", "link" : ""}	
+	},	  
 	{
 	"token_id"	: "",
 	"name"		: "Promote your event, venue, item",
