@@ -30,16 +30,16 @@
 	},	  
         {
 	"token_id"	: "",
-	"name"		: "Genesis VR art gallery",
-	"description"	: "Amazing art gallery owned by Artur.",	
-	"categories"	: ["art"],
-	"tags"		: ["artur","art","genesis"],
-	"embed"		: "<video class='img-fluid' playsinline autoplay muted loop><source src='https://videos.files.wordpress.com/wRLCiBw7/genesis_vr_hd.mp4' type='video/mp4'></video>",		
+	"name"		: "Loading… #251121 #SSVR592",
+	"description"	: "",	
+	"categories"	: ["data"],
+	"tags"		: ["dappradar","stats"],
+	"embed"		: "<video class='img-fluid' playsinline autoplay muted loop><source src='https://videos.files.wordpress.com/ZGAbTyRC/loading....mp4' type='video/mp4'></video>",		
 	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/03/genesis_vr.jpg",
-	"image_link"    : "https://somniumspace.com/parcel/2701?elv=-0.79",	
+	"image_link"    : "",	
 	"images"	: [{}],
-  	"button1" 	: {"title" : "Somnium WEB", "link" : "https://somniumspace.com/parcel/2701?elv=-0.79"},
-	"button2" 	: {"title" : "", "link" : ""}	
+  	"button1" 	: {"title" : "Event", "link" : "https://dappradar.com/blog/loading-251121-ssvr592"},
+	"button2" 	: {"title" : "Video", "link" : "https://youtu.be/3F0Xncse9pk"}	
 	},
 	{
 	"token_id"	: "",
