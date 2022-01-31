@@ -28,19 +28,6 @@
   	"button1" 	: {"title" : "Somnium WEB", "link" : "https://somniumspace.com/parcel/752?elv=2.2"},
 	"button2" 	: {"title" : "Natural Warp 360° gallery", "link" : "https://www.naturalwarp.com/360-gallery.html"}	
 	},	  
-        {
-	"token_id"	: "",
-	"name"		: "Loading… #251121 #SSVR592",
-	"description"	: "",	
-	"categories"	: ["data"],
-	"tags"		: ["dappradar","stats"],
-	"embed"		: "<video class='img-fluid' playsinline autoplay muted loop><source src='https://videos.files.wordpress.com/ZGAbTyRC/loading....mp4' type='video/mp4'></video>",		
-	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/03/genesis_vr.jpg",
-	"image_link"    : "",	
-	"images"	: [{}],
-  	"button1" 	: {"title" : "Event", "link" : "https://dappradar.com/blog/loading-251121-ssvr592"},
-	"button2" 	: {"title" : "Video", "link" : "https://youtu.be/3F0Xncse9pk"}	
-	},
 	{
 	"token_id"	: "",
 	"name"		: "Rent a parcel in Somnium Space",
@@ -66,19 +53,6 @@
 	"images"	: [{}],
   	"button1" 	: {"title" : "Somnium WEB", "link" : "https://somniumspace.com/parcel/4634"},
 	"button2" 	: {"title" : "Metaverse Gallery", "link" : "https://www.artcoffee.info/"}	
-	},
-        {
-	"token_id"	: "",
-	"name"		: "Djembe's Weekly Shows",
-	"description"	: "Weekly music shows by Djembe Dragonfire! 22:00 CET / 4PM EDT",	
-	"categories"	: ["music"],
-	"tags"		: ["music"],
-	"embed"		: "",		
-	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/06/DjembeShows700x400.png",
-	"image_link"    : "https://somniumspace.com/parcel/476",	
-	"images"	: [{}],
-  	"button1" 	: {"title" : "Somnium WEB", "link" : "https://somniumspace.com/parcel/476"},
-	"button2" 	: {"title" : "Website", "link" : "http://www.djembelivesomnium.com"}	
 	},	  
 	{
 	"token_id"	: "",
