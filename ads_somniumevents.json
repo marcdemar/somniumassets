@@ -1,0 +1,123 @@
+{
+  "_embed_mp4"		: "<video class='img-fluid' playsinline autoplay muted loop><source src='https://mdbootstrap.com/img/video/animation-intro.mp4' type='video/mp4'></video>",
+  "_embed_youtube"	: "<div class='embed-responsive embed-responsive-16by9'><iframe class='embed-responsive-item' src='https://www.youtube.com/embed/Sy3-Fblmn1E?controls=0'></iframe></div>", 	
+  "assets": [
+	{
+	"token_id"	: "",
+	"name"		: "Somnium Space Worlds",
+	"description"	: "Somnium Space Worlds are fully programmable and customizable independent Virtual Reality instances which can be created by using Somnium Space SDK.",	
+	"categories"	: ["world"],
+	"tags"		: ["somniumspace","world"],
+	"embed"		: "<div class='embed-responsive embed-responsive-16by9'><iframe class='embed-responsive-item' src='https://www.youtube.com/embed/YARmHLs2BjI'></iframe></div>",	
+	"preview_img"	: "https://lh3.googleusercontent.com/l2Fk8HSQaT0hVZilj6kXrgoJ1XzRj38hsm3i4epROzA-ND_DCoKo3K1AnOioANlca1_eZ9qR8UXp4R1M1bS5hWVX=s0",	
+	"image_link"    : "https://opensea.io/assets/0xf980759616a795b2d692a5c0a0f1bad651984bc1/32",		
+	"images"	: [{}],
+  	"button1" 	: {"title" : "Opensea", "link" : "https://opensea.io/assets/somnium-space?search[stringTraits][0][name]=TYPE&search[stringTraits][0][values][0]=WORLD"},  
+	"button2" 	: {"title" : "", "link" : ""}		
+	},	  
+	{
+	"token_id"	: "",
+	"name"		: "Somnium WEB parcel 752",
+	"description"	: "Experience 360° NFT art made by Natural Warp.",	
+	"categories"	: ["art"],
+	"tags"		: ["naturalwarp","art","360"],
+	"embed"		: "<video class='img-fluid' playsinline autoplay muted loop><source src='https://videos.files.wordpress.com/ekDOFjeX/parcel_752_hd.mp4' type='video/mp4'></video>",		
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/03/parcel-752.jpg",
+	"image_link"    : "https://somniumspace.com/parcel/752?elv=2.2",	
+	"images"	: [{}],
+  	"button1" 	: {"title" : "Somnium WEB", "link" : "https://somniumspace.com/parcel/752?elv=2.2"},
+	"button2" 	: {"title" : "Natural Warp 360° gallery", "link" : "https://www.naturalwarp.com/360-gallery.html"}	
+	},	  
+        {
+	"token_id"	: "",
+	"name"		: "Loading… #251121 #SSVR592",
+	"description"	: "",	
+	"categories"	: ["data"],
+	"tags"		: ["dappradar","stats"],
+	"embed"		: "<video class='img-fluid' playsinline autoplay muted loop><source src='https://videos.files.wordpress.com/ZGAbTyRC/loading....mp4' type='video/mp4'></video>",		
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/03/genesis_vr.jpg",
+	"image_link"    : "",	
+	"images"	: [{}],
+  	"button1" 	: {"title" : "Event", "link" : "https://dappradar.com/blog/loading-251121-ssvr592"},
+	"button2" 	: {"title" : "Video", "link" : "https://youtu.be/3F0Xncse9pk"}	
+	},
+	{
+	"token_id"	: "",
+	"name"		: "Rent a parcel in Somnium Space",
+	"description"	: "XL, M and S parcels available. Yearly rentals. Email info[at]somniumassets.com or contact marcdemar on Discord.",	
+	"categories"	: ["ad"],
+	"tags"		: ["ad"],
+	"embed"		: "",		
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/03/rent.jpg",
+	"image_link"    : "",	
+	"images"	: [{}],
+  	"button1" 	: {"title" : "Discord", "link" : "https://discord.gg/somniumspace"},
+	"button2" 	: {"title" : "", "link" : ""}	
+	},	  
+        {
+	"token_id"	: "",
+	"name"		: "Art & Coffee",
+	"description"	: "Weekly exhibitions, interviews and podcasts for artists, collectors and musicians. Regular exhibitions with live music each Tuesday at 23:00 CEST, 5 EST in Cafe gallery",	
+	"categories"	: ["art"],
+	"tags"		: ["art","coffee"],
+	"embed"		: "<video class='img-fluid' playsinline autoplay muted loop><source src='https://videos.files.wordpress.com/2JNzMCCz/art_coffee2_mp4_hd.mp4' type='video/mp4'></video>",		
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/03/genesis_vr.jpg",
+	"image_link"    : "https://somniumspace.com/parcel/4634",	
+	"images"	: [{}],
+  	"button1" 	: {"title" : "Somnium WEB", "link" : "https://somniumspace.com/parcel/4634"},
+	"button2" 	: {"title" : "Metaverse Gallery", "link" : "https://www.artcoffee.info/"}	
+	},
+        {
+	"token_id"	: "",
+	"name"		: "Djembe's Weekly Shows",
+	"description"	: "Weekly music shows by Djembe Dragonfire! 22:00 CET / 4PM EDT",	
+	"categories"	: ["music"],
+	"tags"		: ["music"],
+	"embed"		: "",		
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2021/06/DjembeShows700x400.png",
+	"image_link"    : "https://somniumspace.com/parcel/476",	
+	"images"	: [{}],
+  	"button1" 	: {"title" : "Somnium WEB", "link" : "https://somniumspace.com/parcel/476"},
+	"button2" 	: {"title" : "Website", "link" : "http://www.djembelivesomnium.com"}	
+	},	  
+	{
+	"token_id"	: "",
+	"name"		: "Promote your event, venue, item",
+	"description"	: "Secure your spot! Email info[at]somniumassets.com or contact marcdemar on Discord.",	
+	"categories"	: ["ad"],
+	"tags"		: ["ad"],
+	"embed"		: "",		
+	"preview_img"	: "/images/ad_placeholder.jpg",
+	"image_link"    : "",	
+	"images"	: [{}],
+  	"button1" 	: {"title" : "Discord", "link" : "https://discord.gg/somniumspace"},
+	"button2" 	: {"title" : "", "link" : ""}	
+	},	  
+	{
+	"token_id"	: "",
+	"name"		: "Promote your event, venue, item",
+	"description"	: "Secure your spot! Email info[at]somniumassets.com or contact marcdemar on Discord.",	
+	"categories"	: ["ad"],
+	"tags"		: ["ad"],
+	"embed"		: "",		
+	"preview_img"	: "/images/ad_placeholder.jpg",
+	"image_link"    : "",	
+	"images"	: [{}],
+  	"button1" 	: {"title" : "Discord", "link" : "https://discord.gg/somniumspace"},
+	"button2" 	: {"title" : "", "link" : ""}	
+	},	  
+	{
+	"token_id"	: "",
+	"name"		: "Promote your event, venue, item",
+	"description"	: "Secure your spot! Email info[at]somniumassets.com or contact marcdemar on Discord.",	
+	"categories"	: ["ad"],
+	"tags"		: ["ad"],
+	"embed"		: "",		
+	"preview_img"	: "/images/ad_placeholder.jpg",
+	"image_link"    : "",	
+	"images"	: [{}],
+  	"button1" 	: {"title" : "Discord", "link" : "https://discord.gg/somniumspace"},
+	"button2" 	: {"title" : "", "link" : ""}	
+	}	  
+  ]
+}
