@@ -5,7 +5,7 @@
 	{
 	"token_id"	: "",
 	"name"		: "New To Somnium Events?",
-	"description"	: "Somnium Events is your one stop site for all events happening in and around Somnium Space. Watch the short tutorial to get started.",	
+	"description"	: "Somnium Events is your one stop site for all events happening in and around Somnium Space. Watch the short tutorial or read the doc to get started.",	
 	"categories"	: ["world"],
 	"tags"		: ["somniumspace","world"],
 	"embed"		: "<div class='embed-responsive embed-responsive-16by9'><iframe class='embed-responsive-item' src='https://www.youtube.com/embed/YARmHLs2BjI'></iframe></div>",	
@@ -13,7 +13,7 @@
 	"image_link"    : "https://www.youtube.com/watch?v=10ntTYBJUB0",		
 	"images"	: [{}],
   	"button1" 	: {"title" : "Video", "link" : "https://www.youtube.com/watch?v=10ntTYBJUB0"},  
-	"button2" 	: {"title" : "", "link" : ""}		
+	"button2" 	: {"title" : "Documentation", "link" : "https://somniumtimes.com/"}		
 	},	  
 	{
 	"token_id"	: "",
