@@ -5,9 +5,9 @@
 	{
 	"token_id"	: "",
 	"name"		: "New To Somnium Events?",
-	"description"	: "Somnium Events is your one stop site for all events happening in and around Somnium Space. Watch the short tutorial or read the doc to get started.",	
-	"categories"	: ["world"],
-	"tags"		: ["somniumspace","world"],
+	"description"	: "Somnium Events is your one stop source for all events happening in and around Somnium Space. Watch the short tutorial or read the doc to get started.",	
+	"categories"	: ["tutorial"],
+	"tags"		: ["somniumspace","somniumevents"],
 	"embed"		: "<div class='embed-responsive embed-responsive-16by9'><iframe class='embed-responsive-item' src='https://www.youtube.com/embed/YARmHLs2BjI'></iframe></div>",	
 	"preview_img"	: "https://lh3.googleusercontent.com/l2Fk8HSQaT0hVZilj6kXrgoJ1XzRj38hsm3i4epROzA-ND_DCoKo3K1AnOioANlca1_eZ9qR8UXp4R1M1bS5hWVX=s0",	
 	"image_link"    : "https://www.youtube.com/watch?v=10ntTYBJUB0",		
@@ -57,7 +57,7 @@
 	{
 	"token_id"	: "",
 	"name"		: "Promote your event, venue, item",
-	"description"	: "Secure your spot! Email info[at]somniumassets.com or contact marcdemar on Discord.",	
+	"description"	: "Secure your spot! Email info[at]somniumevents.com or contact marcdemar on Discord (https://discord.gg/m6dAu7DbEC)",	
 	"categories"	: ["ad"],
 	"tags"		: ["ad"],
 	"embed"		: "",		
