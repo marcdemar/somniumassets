@@ -57,27 +57,27 @@
 	{
 	"token_id"	: "",
 	"name"		: "Promote your event, venue, item",
-	"description"	: "Secure your spot! Email info[at]somniumevents.com or contact marcdemar on Discord (https://discord.gg/m6dAu7DbEC)",	
+	"description"	: "Secure your spot! Contact marcdemar on Discord (click button to join)",	
 	"categories"	: ["ad"],
 	"tags"		: ["ad"],
 	"embed"		: "",		
 	"preview_img"	: "/images/ad_placeholder.jpg",
 	"image_link"    : "",	
 	"images"	: [{}],
-  	"button1" 	: {"title" : "Discord", "link" : "https://discord.gg/somniumspace"},
+  	"button1" 	: {"title" : "Discord", "link" : "https://discord.gg/m6dAu7DbEC"},
 	"button2" 	: {"title" : "", "link" : ""}	
 	},	  
 	{
 	"token_id"	: "",
 	"name"		: "Promote your event, venue, item",
-	"description"	: "Secure your spot! Email info[at]somniumassets.com or contact marcdemar on Discord.",	
+	"description"	: "Secure your spot! Contact marcdemar on Discord (click button to join)",	
 	"categories"	: ["ad"],
 	"tags"		: ["ad"],
 	"embed"		: "",		
 	"preview_img"	: "/images/ad_placeholder.jpg",
 	"image_link"    : "",	
 	"images"	: [{}],
-  	"button1" 	: {"title" : "Discord", "link" : "https://discord.gg/somniumspace"},
+  	"button1" 	: {"title" : "Discord", "link" : "https://discord.gg/m6dAu7DbEC"},
 	"button2" 	: {"title" : "", "link" : ""}	
 	}	  
   ]
