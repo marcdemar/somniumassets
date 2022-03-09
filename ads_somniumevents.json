@@ -34,7 +34,7 @@
 	"description"	: "Secure your spot! Contact marcdemar on Discord (click button to join)",	
 	"categories"	: ["ad"],
 	"tags"		: ["ad"],
-	"embed"		: "<video class='img-fluid' playsinline autoplay muted loop><source src='https://videos.files.wordpress.com/5NbWol5f/promo-02b.mp4' type='video/mp4'></video>",		
+	"embed"		: "<video class='img-fluid' playsinline autoplay muted loop><source src='https://videos.files.wordpress.com/91t1Zm6f/promo-02b-small.mp4' type='video/mp4'></video>",		
 	"preview_img"	: "/images/ad_placeholder.jpg",
 	"image_link"    : "",	
 	"images"	: [{}],
