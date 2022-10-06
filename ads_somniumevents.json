@@ -30,15 +30,15 @@
 	},	  
 	{
 	"token_id"	: "",
-	"name"		: "Promote your event, venue, item",
-	"description"	: "Secure your spot! Contact marcdemar on Discord (click button to join)",	
+	"name"		: "VRACE Bulleth Motorcycles",
+	"description"	: "VRACE Bulleth Motorcycles",	
 	"categories"	: ["ad"],
 	"tags"		: ["ad"],
-	"embed"		: "",		
+	"embed"		: "<video class='img-fluid' playsinline autoplay muted loop><source src='https://videos.files.wordpress.com/MzvobhYN/renders_with_text_-_mixup_all_bikes.mp4' type='video/mp4'></video>",		
 	"preview_img"	: "/images/ad_placeholder.jpg",
 	"image_link"    : "",	
 	"images"	: [{}],
-  	"button1" 	: {"title" : "Discord", "link" : "https://discord.gg/m6dAu7DbEC"},
+  	"button1" 	: {"title" : "VRACE Site", "link" : "https://www.vrace-nft.com/"},
 	"button2" 	: {"title" : "", "link" : ""}	
 	},	  
 	{
