@@ -39,7 +39,7 @@
 	"image_link"    : "",	
 	"images"	: [{}],
   	"button1" 	: {"title" : "VRACE Site", "link" : "https://www.vrace-nft.com/"},
-	"button2" 	: {"title" : "", "link" : ""}	
+	"button2" 	: {"title" : "VRACE Twitter", "link" : "https://twitter.com/VRACE_NFT"}	
 	},	  
 	{
 	"token_id"	: "",
