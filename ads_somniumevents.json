@@ -31,7 +31,7 @@
 	{
 	"token_id"	: "",
 	"name"		: "VRACΞ - Motorcycles",
-	"description"	: "BullΞth is the latest series of top-end quality crypto-vehicles exclusively build for use within Somnium Space VR",	
+	"description"	: "BullΞth is the latest series of top-end quality crypto-vehicles exclusively build for use within the Somnium Space VR realm.",	
 	"categories"	: ["ad"],
 	"tags"		: ["ad"],
 	"embed"		: "<video class='img-fluid' playsinline autoplay muted loop><source src='https://videos.files.wordpress.com/MzvobhYN/renders_with_text_-_mixup_all_bikes.mp4' type='video/mp4'></video>",		
@@ -43,16 +43,16 @@
 	},	  
 	{
 	"token_id"	: "",
-	"name"		: "Promote your event, venue, item",
-	"description"	: "Secure your spot! Contact marcdemar on Discord (click button to join)",	
+	"name"		: "VRACΞ - Hoverbikes",
+	"description"	: "BullΞth is the latest series of top-end quality crypto-vehicles exclusively build for use within the Somnium Space VR realm.",	
 	"categories"	: ["ad"],
 	"tags"		: ["ad"],
-	"embed"		: "",		
+	"embed"		: "<video class='img-fluid' playsinline autoplay muted loop><source src='https://videos.files.wordpress.com/ww6kg6Ko/renders_with_text_-_mixup_all_hovers.mp4' type='video/mp4'></video>",		
 	"preview_img"	: "/images/ad_placeholder.jpg",
 	"image_link"    : "",	
 	"images"	: [{}],
-  	"button1" 	: {"title" : "Discord", "link" : "https://discord.gg/m6dAu7DbEC"},
-	"button2" 	: {"title" : "", "link" : ""}	
+  	"button1" 	: {"title" : "VRACE Site", "link" : "https://www.vrace-nft.com/"},
+	"button2" 	: {"title" : "VRACE Twitter", "link" : "https://twitter.com/VRACE_NFT"}	
 	},	  
 	{
 	"token_id"	: "",
