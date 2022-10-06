@@ -4,6 +4,19 @@
   "assets": [
 	{
 	"token_id"	: "",
+	"name"		: "New To Somnium Events?",
+	"description"	: "Somnium Events is your one stop source for all events happening in and around Somnium Space. Watch the short tutorial to get started.",	
+	"categories"	: ["tutorial"],
+	"tags"		: ["somniumspace","somniumevents"],
+	"embed"		: "<div class='embed-responsive embed-responsive-16by9'><iframe class='embed-responsive-item' src='https://www.youtube.com/embed/IWcHc6Q7HwY'></iframe></div>",	
+	"preview_img"	: "https://lh3.googleusercontent.com/l2Fk8HSQaT0hVZilj6kXrgoJ1XzRj38hsm3i4epROzA-ND_DCoKo3K1AnOioANlca1_eZ9qR8UXp4R1M1bS5hWVX=s0",	
+	"image_link"    : "https://www.youtube.com/watch?v=10ntTYBJUB0",		
+	"images"	: [{}],
+  	"button1" 	: {"title" : "Tutorial", "link" : "https://www.youtube.com/watch?v=IWcHc6Q7HwY"},  
+	"button2" 	: {"title" : "", "link" : ""}		
+	},	  
+	{
+	"token_id"	: "",
 	"name"		: "Get your event listed on Somnium Events",
 	"description"	: "Join us on Discord and share your event details with us!",	
 	"categories"	: ["ad"],
@@ -40,20 +53,7 @@
 	"images"	: [{}],
   	"button1" 	: {"title" : "VRACE Site", "link" : "https://www.vrace-nft.com/"},
 	"button2" 	: {"title" : "VRACE Twitter", "link" : "https://twitter.com/VRACE_NFT"}	
-	},	  
-	{
-	"token_id"	: "",
-	"name"		: "New To Somnium Events?",
-	"description"	: "Somnium Events is your one stop source for all events happening in and around Somnium Space. Watch the short tutorial to get started.",	
-	"categories"	: ["tutorial"],
-	"tags"		: ["somniumspace","somniumevents"],
-	"embed"		: "<div class='embed-responsive embed-responsive-16by9'><iframe class='embed-responsive-item' src='https://www.youtube.com/embed/IWcHc6Q7HwY'></iframe></div>",	
-	"preview_img"	: "https://lh3.googleusercontent.com/l2Fk8HSQaT0hVZilj6kXrgoJ1XzRj38hsm3i4epROzA-ND_DCoKo3K1AnOioANlca1_eZ9qR8UXp4R1M1bS5hWVX=s0",	
-	"image_link"    : "https://www.youtube.com/watch?v=10ntTYBJUB0",		
-	"images"	: [{}],
-  	"button1" 	: {"title" : "Tutorial", "link" : "https://www.youtube.com/watch?v=IWcHc6Q7HwY"},  
-	"button2" 	: {"title" : "", "link" : ""}		
-	},	    
+	},	      
 	{
 	"token_id"	: "",
 	"name"		: "Promote your event, venue, item",
